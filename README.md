@@ -1,5 +1,10 @@
-## Hi there 👋
+## Greetings 👋
+I’m Martin, student of Compute Science at UTFSM.
 
+I’m interesting by cryptography, physics, data analysis and robots.
+
+I like draw and some other stuff.
+- F**k AI art. 
 <!--
 **perrochoco0/perrochoco0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
